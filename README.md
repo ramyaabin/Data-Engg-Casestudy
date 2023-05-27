@@ -21,4 +21,4 @@
 
 6.Post tranformation the data was stored in S3 Bucket as parquet file
 
-7.Querying file was done using Athena, MySQL, AmazonSagemaker(EDA+Visualization)
+7.Querying file was done using Athena, AmazonSagemaker(EDA+Visualization)
